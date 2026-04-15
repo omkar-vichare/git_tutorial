@@ -1,1 +1,2 @@
 It's first line of def.
+It's second line of def.
