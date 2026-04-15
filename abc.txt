@@ -4,3 +4,5 @@ It's third line of abc.
 It's fourth line of abc.
 It's fifth line of abc.
 It's sixth line of abc.
+
+Adding some new line in remote which is not available in local repo (.git/)
