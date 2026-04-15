@@ -3,3 +3,5 @@ It's second line of def.
 It's third line of def.
 
 Adding some new lines on new branch name branch_2 in def file.
+
+It's fourth line of def.
