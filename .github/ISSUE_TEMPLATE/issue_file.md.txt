@@ -1,0 +1,14 @@
+---
+name: testbench task
+about: create a testbench
+title: "[TB] TC_XXX - <short test>"
+labels: ["testbench", "not-run"]
+---
+
+### Test case
+TC: TC_XXX
+DUT: osGen.v
+Priority: P1 / P2 / P3
+
+### Spec/doc/web urls
+PCIe Base Spec 3.0
