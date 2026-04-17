@@ -8,6 +8,7 @@ It's sixth line of abc.
 Adding some new line in remote which is not available in local repo (.git/)
 
 Adding some new lines on new branch name branch_1 in abc file.
+Adding some new line from main branch in abc file.
 
 Adding some new lines on new branch name branch_2 in abc file.
 Adding some new lines from working directory in abc file.Adding some new lines on new branch name branch_2 in abc file.
