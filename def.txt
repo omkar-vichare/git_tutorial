@@ -6,3 +6,5 @@ Adding some new lines on new branch name branch_2 in def file.
 
 It's fourth line of def.
 It's fifth line of def.
+
+Adding new line from main branch.
