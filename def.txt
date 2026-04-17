@@ -9,3 +9,5 @@ It's fifth line of def.
 
 Adding new line from working dir in def file.
 Adding new line from main branch.
+
+Adding new line2 from working dir in def file.
