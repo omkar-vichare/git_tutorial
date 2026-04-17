@@ -12,4 +12,4 @@ Adding some new line from main branch in abc file.
 
 Adding some new lines on new branch name branch_2 in abc file.
 Adding some new lines from working directory in abc file.Adding some new lines on new branch name branch_2 in abc file.
-Adding some new lines from main in abc file.
+Adding some new lines from main in abc file. And added another new line to understand conflicts.
